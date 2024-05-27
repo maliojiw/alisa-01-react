@@ -7,4 +7,5 @@
 ## Branch
 
 - main just react + tailwind
+- daisy is react tailwind + daisy ui
 - mui react + mui +tailwind
