@@ -14,9 +14,7 @@ import Owner from "./components/Owner.jsx";
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Home/>
-      
-    ,
+    element: <Home/>,
   },
   {
     path: "/Owner",
