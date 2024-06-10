@@ -3,7 +3,7 @@ import React from 'react';
 const AdminTable = ({ users, onDelete }) => {
   return (
     <div className="overflow-x-auto w-full max-w-4xl">
-      <table className="min-w-full bg-white border border-gray-300 rounded-lg shadow-lg">
+      <table className="min-w-full bg-white border border-gray-200 rounded-lg shadow-lg">
         <thead>
           <tr className="bg-gray-300 text-gray-700 uppercase text-sm leading-normal">
             <th className="py-3 px-6 text-left border-b border-gray-300">Name</th>

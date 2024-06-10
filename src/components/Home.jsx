@@ -54,7 +54,7 @@ function Home() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-200">
+    <div className="min-h-screen bg-cyan-100">
       <Nav onReset={resetState} />
       <main className="flex flex-col items-center justify-center mt-16">
         <h2 className="text-3xl font-bold mb-8">Generation Thailand Home - {showUserTable ? "User Sector" : "Admin Sector"}</h2>

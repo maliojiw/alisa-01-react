@@ -14,7 +14,7 @@ export default function Nav({ onReset }) {
 
   return (
     <div>
-      <header className="bg-gray-300 p-4 flex justify-between items-center">
+      <header className="bg-cyan-300 p-4 flex justify-between items-center">
         <h1 className="text-xl font-bold">Kai Kai React - Assessment</h1>
         <nav>
           <ul className="flex space-x-4">
